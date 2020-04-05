@@ -1,0 +1,10 @@
+baseURL: http://tele-therapie.at/
+languageCode: en-us
+title: Tele-Therapie in Österreich
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files

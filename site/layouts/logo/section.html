@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section class="section">
+  <div class="columns is-centered">
+    <div class="column is-9-desktop is-7-widescreen">
+      <div class="hero">
+        <div class="hero-body">
+          <h1 class="title">
+            Find a speech therapist
+          </h1>
+
+          <div class="columns">
+            <div class="column">
+              <a href="#">
+                <div class="card">
+                  <div class="card-content">
+                    <p class="title">Neuro rehab</p>
+                    <img src="/images/placeholder.png">
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="column">
+              <a class="title" href="#">
+                <div class="card">
+                  <div class="card-content">
+                    <p class="title">Pediatric</p>
+                    <img src="/images/placeholder.png">
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "section-list" . }}
+
+{{ end }}

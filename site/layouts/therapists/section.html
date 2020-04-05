@@ -1,17 +1,23 @@
 {{ define "main" }}
-<main>
-  <div id="vue-thing"></div>
+<section class="section">
+  <div class="columns is-centered">
+    <div class="column is-9-desktop is-7-widescreen">
+      <div class="hero">
+        <div class="hero-body">
+          <h1 class="title">
+            Register/sign in
+          </h1>
 
-  {{ .Content }}
+          <div id="vue-thing"></div>
 
-  <ul class="contents">
-    {{ range .Pages }}
-    <li><a href="{{.RelPermalink}}">{{.Title}}</a>
-      <div>
-        {{.Summary}}
+          <strong>Therapist sign-in box goes here (when not logged in)</strong>
+        </div>
       </div>
-    </li>
-    {{ end }}
-  </ul>
-</main>
+    </div>
+  </div>
+</section>
+
+
+{{ partial "section-list" . }}
+
 {{ end }}

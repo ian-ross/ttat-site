@@ -1,8 +1,4 @@
-{{ define "main" }}
-
-{{ .Content | safeHTML }}
-
-{{ range .Pages }}
+{{ range where .Site.RegularPages "Section" .Section }}
 <section class="section">
   <a href="{{.RelPermalink}}">
     <div class="columns is-centered">
@@ -18,5 +14,4 @@
     </div>
   </a>
 </section>
-{{ end }}
 {{ end }}

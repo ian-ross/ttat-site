@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ $.Site.Language.Lang }}">
   <head>
     <meta charset="utf-8">
@@ -10,25 +10,97 @@
     <link href="{{ relURL . }}" rel="stylesheet">
     {{ end }}
     {{ with .Page.Params.vueJS }}
-      {{ range . }}
-        {{ $script := index $.Site.Data.webpack . }}
-        {{ with $script.css }}
-        <link href="{{ relURL . }}" rel="stylesheet">
-        {{ end }}
-      {{ end }}
+    {{ range . }}
+    {{ $script := index $.Site.Data.webpack . }}
+    {{ with $script.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+    {{ end }}
+    {{ end }}
     {{ end }}
   </head>
 
   <body>
+    <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item is-size-4" href="/">
+          <strong>
+            {{ $.Site.Title }}
+          </strong>
+        </a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu"
+           aria-expanded="false" data-target="ttat-menu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="ttat-menu" class="navbar-menu">
+        <div class="navbar-start">
+          <a class="navbar-item" href="/">
+            Patient(in)nen
+          </a>
+
+          <a class="navbar-item" href="/therapists">
+            Therapeut(in)nen
+          </a>
+
+          <a class="navbar-item" href="/doctors">
+            Ärzte
+          </a>
+        </div>
+
+        <div class="navbar-end">
+          <div class="navbar-item">
+            <a class="button is-primary">
+              <strong>Anmelden</strong>
+            </a>
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <div class="navbar-link">
+              Ian Ross
+            </div>
+            <div class="navbar-dropdown">
+              <a class="navbar-item">
+                <span>
+                  <span class="icon">
+                    <i class="fa fa-user-circle"></i>
+                  </span>
+                  Profile
+                </span>
+              </a>
+              <a class="navbar-item">
+                <span>
+                  <span class="icon">
+                    <i class="fa fa-bug"></i>
+                  </span>
+                  Report bug
+                </span>
+              </a>
+              <a class="navbar-item">
+                <span>
+                  <span class="icon">
+                    <i class="fa fa-sign-out-alt"></i>
+                  </span>
+                  Sign Out
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
     {{ block "main" . }}{{end}}
 
     {{ with .Page.Params.vueJS }}
-      {{ $script := index $.Site.Data.webpack "chunk-vendors" }}
-      {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-      {{ end }}
-      {{ range . }}
-        {{ $script := index $.Site.Data.webpack . }}
+    {{ $script := index $.Site.Data.webpack "chunk-vendors" }}
+    {{ with $script.js }}
+    <script src="{{ relURL . }}"></script>
+    {{ end }}
+    {{ range . }}
+    {{ $script := index $.Site.Data.webpack . }}
         {{ with $script.js }}
         <script src="{{ relURL . }}"></script>
         {{ end }}
