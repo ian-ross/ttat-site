@@ -1,7 +1,9 @@
 ---
 title: Ergotherapie und Tele-Therapie 3
-weight: 3
+weight: "3"
+
 ---
+Hallo
 
 This is the third bit of information about OT and TT. Lorem ipsum
 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
