@@ -1,8 +1,8 @@
 ---
-title: Info für Ärzte
-weight: 1
----
+title: Info für Ärzte 1
+weight: "1"
 
+---
 This is the first bit of information for doctors. Lorem ipsum dolor
 sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
