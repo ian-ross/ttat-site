@@ -1,5 +1,5 @@
 baseURL: http://tele-therapie.at/
-languageCode: en-us
+languageCode: de
 title: Tele-Therapie in Österreich
 disableKinds:
 - taxonomy

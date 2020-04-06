@@ -16,7 +16,9 @@
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:vue": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "cms": "run-s build:vue cms:hugo",
+    "cms:hugo": "hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk -d ../dist -s site"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
