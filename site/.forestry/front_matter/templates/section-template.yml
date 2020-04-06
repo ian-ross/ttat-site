@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: number
   name: weight
-  label: weight
+  label: Order
