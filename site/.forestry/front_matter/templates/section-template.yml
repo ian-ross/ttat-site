@@ -8,5 +8,3 @@ fields:
 - type: number
   name: weight
   label: Order
-pages:
-- site/content/ergo/test-article.md
