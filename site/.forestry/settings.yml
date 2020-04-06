@@ -44,9 +44,9 @@ build:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.63.2
   preview_output_directory: dist
-  install_dependencies_command: yarn install
+  install_dependencies_command: npm install
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: yarn cms
+  instant_preview_command: npm run cms
 version: 0.63.2
