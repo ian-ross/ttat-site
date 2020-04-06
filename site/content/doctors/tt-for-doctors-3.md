@@ -1,8 +1,8 @@
 ---
-title: Info für Ärzte
-weight: 3
----
+title: Info für Ärzte 3
+weight: "3"
 
+---
 This is the third bit of information for doctors. Lorem ipsum dolor
 sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
