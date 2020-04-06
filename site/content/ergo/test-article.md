@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Test article"
 weight = 4
 
