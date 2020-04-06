@@ -5,23 +5,18 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: site/content
-  label: Pages
+  path: site/content/ergo
+  label: Ergo
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: site/content/physio
   label: Physio
   create: all
   match: "**/*"
 - type: directory
-  path: site/content/ergo
-  label: Ergo
-  create: all
-  match: "**/*"
-- type: directory
-  path: site/content/doctors
-  label: Doctors
+  path: site/content/logo
+  label: Logo
   create: all
   match: "**/*"
 - type: directory
@@ -30,10 +25,15 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: site/content/logo
-  label: Logo
+  path: site/content/doctors
+  label: Doctors
   create: all
   match: "**/*"
+- type: directory
+  path: site/content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: site/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
