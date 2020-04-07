@@ -11,8 +11,6 @@ Auf unserer Webseite finden Sie Therapeut*innen, die eine Therapie in Form einer
 
 **Teletherapie**
 
-Das therapeutische Arbeiten geschieht normalerweise im engen körperlichen Kontakt zwischen Therapeut_in und Patient_in. Dies ist aufgrund der Coronavirus-Pandemie im Moment, um das Risiko einer Ansteckung zu reduzieren, nur in absoluten Notfällen und unter strengen Hygienemaßnahmen möglich.
+Das therapeutische Arbeiten geschieht normalerweise im engen körperlichen Kontakt zwischen Therapeut_in und Patient_in. Dies ist aufgrund der Coronavirus-Pandemie im Moment nur in absoluten Notfällen und unter strengen Hygienemaßnahmen möglich, um das Risiko einer Ansteckung zu reduzieren.
 
 Viele Personen sind zwar keine therapeutischen Notfälle, bedürfen aber trotzdem therapeutischer Betreuung. Hier kann die Teletherapie helfen.
-
-Teletherapie verwendet moderne Technologien um die Therapie zu den Menschen nach Hause zu bringen. Über Videokonferenzen können Therapeut*innen wertvolle Unterstützung für die Personen anbieten, die zur Zeit keinen Zugang zur herkömmlichen face-to-face Therapie haben.
