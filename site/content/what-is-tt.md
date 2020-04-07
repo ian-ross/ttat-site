@@ -1,34 +1,18 @@
 ---
-title: Was ist Tele-Therapie?
-weight: 1
----
+title: Warum Teletherapie?
+weight: "1"
 
-This is the first bit of general information about TT. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+---
+Sie brauchen Physiotherapie, Ergotherapie oder Logopädie, aber aufgrund der Coronavirus Pandemie ist es Ihnen derzeit nicht möglich zur Therapie zu gehen? Wir haben die Lösung für Sie! 
+
+Auf unserer Webseite finden Sie Therapeut*innen, die die benötigte Therapie über Videokonferenz  durchführen, die sogenannte Teletherapie.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+**Teletherapie**
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam
-varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus
-magna felis sollicitudin mauris. Integer in mauris eu nibh euismod
-gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis
-risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue,
-eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas
-fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla
-a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis,
-neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing
-sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque
-nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus
-quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis,
-molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+Das therapeutische Arbeiten geschieht normalerweise im engen körperlichen Kontakt zwischen Therapeut_in und Patient_in. Dies ist aufgrund der Coronavirus-Pandemie im Moment, um das Risiko einer Ansteckung zu reduzieren, nur in absoluten Notfällen und unter strengen Hygienemaßnahmen möglich.
+
+Viele Personen sind zwar keine therapeutischen Notfälle, bedürfen aber trotzdem therapeutischer Betreuung. Hier kann die Teletherapie helfen. 
+
+Teletherapie verwendet moderne Technologien um die Therapie zu den Menschen nach Hause zu bringen. Über Videokonferenzen können Therapeut*innen wertvolle Unterstützung für die Personen anbieten, die zur Zeit keinen Zugang zur herkömmlichen face-to-face Therapie haben.
