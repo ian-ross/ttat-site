@@ -1,34 +1,22 @@
 ---
-title: Infos über Tele-Therapie 3
-weight: 3
----
+title: Was brauchen Sie als Patient für Teletherapie?
+weight: "3"
 
-This is the third bit of general information about TT. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+---
+Während der Teletherapie kommunizieren Sie mit ihrer*ihrem Therapeutin*Therapeuten über eine live Video. Hierfür wird eine datenschutzsichere Software, verwendet.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+**Die Voraussetzung für Teletherapie sind:**
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam
-varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus
-magna felis sollicitudin mauris. Integer in mauris eu nibh euismod
-gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis
-risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue,
-eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas
-fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla
-a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis,
-neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing
-sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque
-nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus
-quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis,
-molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+* Internet Zugang mit mindestens 5Mbps ->Fragezeichensymbol und link zu diesem Text _(Das ist ein Maß für die Geschwindigkeit des Internetzugangs. Um diese zu überprüfen, gehen sie zu_ [_https://www.speedtest.net/_](https://www.speedtest.net/ "Speedtest") _und klicken sie auf "GO". Nach kurzer Zeit können sie die Geschwindigkeit ihres Internetzugangs ablesen.)_
+* PC, Laptop, Tablet oder Smartphone
+* externe Kamera, falls keine interne Kamera vorhanden
+* je größer der Bildschirm, umso besser ist es für Sie
+* einen Ort, wo sie ungestört die Therapie durchführen können, für Physiotherapie brauchen sie eher mehr Platz als z.B. für Logopädie
+* Verordnung vom Arzt (_geht das momentan per Fax? oder telefonisch?_)
+
+Erfüllen Sie diese Voraussetzungen dann kontaktieren Sie eine*n unserer Therapeut*innen, um folgende Dinge zu klären.
+
+1. Kann der Therapeut Ihnen bei Ihren Beschwerden in Form von Teletherapie helfen?
+2. Hat der Therapeut einen Termin frei für Sie?
