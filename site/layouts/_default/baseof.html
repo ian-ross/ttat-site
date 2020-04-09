@@ -9,6 +9,10 @@
     {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
     {{ end }}
+    {{ $stylesheet := index $.Site.Data.webpack "chunk-common" }}
+    {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+    {{ end }}
     {{ with .Page.Params.vueJS }}
     {{ range . }}
     {{ $script := index $.Site.Data.webpack . }}
@@ -93,6 +97,35 @@
     </nav>
 
     {{ block "main" . }}{{end}}
+
+    <footer class="footer">
+      <div class="container">
+        <div class="container is-spaced">
+          <div class="columns">
+            {{ range .Site.Data.footer.columns }}
+            <div class="column">
+              <strong>{{ .label }}</strong>
+              <ul>
+                {{ range where $.Site.Pages "Section" .section }}
+                <a href={{ .RelPermalink }}><li>{{ .Title }}</li></a>
+                {{ end }}
+              </ul>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="container is-spaced">
+        <div class="section">
+          <div class="content has-text-centered">
+            <p>
+              <strong>Tele-Therapie in Österreich</strong>. Copyright &copy; 2020 Rita Wania & Ian Ross. Source code license: <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
+              Website content license: <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     {{ with .Page.Params.vueJS }}
     {{ $script := index $.Site.Data.webpack "chunk-vendors" }}

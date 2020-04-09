@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import VueThing from './VueThing.vue'
-import './css/main.css'
+import './css/main.scss'
 
 Vue.config.productionTip = false
 
