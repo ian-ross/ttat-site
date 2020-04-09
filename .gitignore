@@ -104,3 +104,6 @@ dist
 .tern-port
 
 site/data/webpack.json
+
+# Local Netlify folder
+.netlify

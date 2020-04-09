@@ -1,0 +1,20 @@
+{
+  "columns": [
+    {
+      "label": "Teletherapie",
+      "section": ""
+    },
+    {
+      "label": "Ergotherapie",
+      "section": "ergo"
+    },
+    {
+      "label": "Physiotherapie",
+      "section": "physio"
+    },
+    {
+      "label": "Logopädie",
+      "section": "logo"
+    }
+  ]
+}

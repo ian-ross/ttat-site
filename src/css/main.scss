@@ -1,0 +1,22 @@
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+@charset 'utf-8';
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+@import 'bulma/sass/utilities/initial-variables.sass';
+
+$family-sans-serif: "Nunito", sans-serif;
+$primary: #00882f;
+
+@import 'bulma/sass/utilities/_all.sass';
+
+$navbar-background-color: $primary;
+$navbar-item-color: $white;
+$navbar-item-hover-color: $grey-lighter;
+$navbar-item-hover-background-color: $primary;
+$navbar-dropdown-background-color: $primary;
+
+$footer-background-color: $primary-light;
+
+@import '~bulma/bulma.sass';

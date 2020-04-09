@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "run-p start:**",
-    "start:hugo": "hugo serve -d ../dist -s site",
+    "start:hugo": "sleep 5 ; hugo server -d ../dist -s site -v",
     "start:vue": "vue-cli-service build --mode dev --watch",
     "preview": "run-p preview:**",
     "preview:hugo": "npm run start:hugo -- -D -F",
