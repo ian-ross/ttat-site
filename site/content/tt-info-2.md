@@ -11,4 +11,4 @@ Das therapeutische Arbeiten geschieht normalerweise im engen körperlichen Konta
 
 Viele Personen sind zwar keine therapeutischen Notfälle, bedürfen aber trotzdem sofortiger therapeutischer Betreuung. Dies ist der Fall, wenn eine Verzögerung der Behandlung negative Konsequenzen mit sich tragen könnte. Beispiele dafür sind u.a. anhaltende Schmerzen, bleibenden Bewegungseinschränkungen, verzögerte Entwicklung von Kindern, Stillprobleme, verlangsamtes Zurückkehren an den Arbeitsplatz, Probleme bei essentiellen Aktivitäten im Alltag für einen selbst, für Kinder oder Angehörige. 
 
-Hier kann die Teletherapie helfen.
+**Hier kann die Teletherapie helfen.**
