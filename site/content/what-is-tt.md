@@ -1,16 +1,12 @@
 ---
-title: Warum Teletherapie?
+title: Information zu tele-therapie.at
 weight: "1"
 
 ---
-Sie brauchen Physiotherapie, Ergotherapie oder Logopädie, aber aufgrund der Coronavirus Pandemie ist es Ihnen derzeit nicht möglich zur Therapie zu gehen? Wir haben die Lösung für Sie!
+Tele-therapie.at ist eine Plattform **von** österreichischen TherapeutInnen **für** österreichische PatientInnen.
 
-Auf unserer Webseite finden Sie Therapeut*innen, die eine Therapie in Form einer Videokonferenz  durchführen, die sogenannte Teletherapie.
+Sie brauchen Physiotherapie, Ergotherapie oder Logopädie, aber aufgrund der Coronavirus Pandemie ist es Ihnen derzeit nicht möglich zur Therapie zu gehen? Wir haben die Lösung für Sie!
 
 <!--more-->
 
-**Teletherapie**
-
-Das therapeutische Arbeiten geschieht normalerweise im engen körperlichen Kontakt zwischen Therapeut_in und Patient_in. Dies ist aufgrund der Coronavirus-Pandemie im Moment nur in absoluten Notfällen und unter strengen Hygienemaßnahmen möglich, um das Risiko einer Ansteckung zu reduzieren.
-
-Viele Personen sind zwar keine therapeutischen Notfälle, bedürfen aber trotzdem therapeutischer Betreuung. Hier kann die Teletherapie helfen.
+Auf unserer Webseite finden Sie Therapeut*innen, die eine Therapie in Form einer Videokonferenz  durchführen, die sogenannte Teletherapie, auch Telemedizin genannt.
