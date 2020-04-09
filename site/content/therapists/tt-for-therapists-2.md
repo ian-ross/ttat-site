@@ -3,28 +3,10 @@ title: Ablauf
 weight: "2"
 
 ---
-Als Therapeutin können Sie sich vorläufig kostenlos auf unserer Webseite registrieren. 
+Als Therapeutin können Sie sich vorläufig kostenlos auf unserer Webseite registrieren. Bei der Registrierung fragen wir Sie im Detail nach Bereichen, in denen Sie arbeiten.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+Wir haben die Bereiche gezielt so ausgewählt, dass sie von Patientenseite her verständlich sind. Diese Bereiche weichen von den herkömmlichen Einteilungen in Fachbereiche, wie wir sie kennen, ab. Wir haben uns im Austausch mit KollegInnen aller dreier Professionen gut überlegt, wie wie die Suche für PatientInnen am einfachsten und effektivsten gestalten können.
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam
-varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus
-magna felis sollicitudin mauris. Integer in mauris eu nibh euismod
-gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis
-risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue,
-eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas
-fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla
-a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis,
-neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing
-sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque
-nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus
-quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis,
-molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+Das vordergründige Ziel dieser Webseite ist es Personen die Möglichkeit zu geben, eine/n Therapeut/in zu finden, die für das Beschwerdebild der suchenden Person auch zuständig ist.
