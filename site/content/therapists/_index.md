@@ -1,5 +1,6 @@
 ---
-title: Info für Therapeut(in)en
+title: Info für Therapeut*innen
 vueJs:
- - vueThing
+- vueThing
+
 ---
