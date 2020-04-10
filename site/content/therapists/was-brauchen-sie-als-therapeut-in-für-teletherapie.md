@@ -16,4 +16,4 @@ Technische Voraussetzungen
 * einen Ort, wo sie ungestört die Therapie durchführen können, für Physiotherapie brauchen sie eher mehr Platz als z.B. für Logopädie
 * eine Software, die eine DSGVO-konforme Durchführung von Teletherapie ermöglicht 
 
-Empfehlung zur Software finden Sie hier: [https://www.fh-campuswien.ac.at/de/departments/gesundheitswissenschaften/einsatz-von-teletherapie-in-zeiten-von-covid-19.html](https://www.fh-campuswien.ac.at/de/departments/gesundheitswissenschaften/einsatz-von-teletherapie-in-zeiten-von-covid-19.html "Einsatz von Teletherapie in Zeiten von Covid-19")
+Empfehlung zur Software finden Sie hier: [https://www.fh-campuswien.ac.at/de/departments/gesundheitswissenschaften/einsatz-von-teletherapie-in-zeiten-von-covid-19.html]("Einsatz von Teletherapie in Zeiten von Covid-19")
