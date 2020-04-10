@@ -1,5 +1,5 @@
 ---
-title: Information zu tele-therapie.at
+title: Information zu Tele-therapie.at
 weight: "1"
 
 ---
