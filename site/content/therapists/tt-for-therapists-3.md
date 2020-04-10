@@ -1,6 +1,6 @@
 ---
 title: Literatur zum Thema Teletherapie
-weight: "3"
+weight: "4"
 
 ---
 Hier findet ihr eine Liste mit Studien zum Thema Teletherapie, Telerehabilitation, Telemedizin und verwandten Bereichen
