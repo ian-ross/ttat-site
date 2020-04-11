@@ -9,6 +9,7 @@ fields:
   name: weight
   label: Order
 pages:
+- site/content/ergo/ergotherapie-für-menschen-mit-psychischen-problemen.md
 - site/content/ergo/test-site.md
 - site/content/rückerstattung-von-den-krankenkassen.md
 - site/content/therapists/rückerstattung-von-den-krankenkassen.md
