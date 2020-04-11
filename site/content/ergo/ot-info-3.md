@@ -1,5 +1,5 @@
 ---
-title: Ergotherapie für neurologische Erkrankungen
+title: Ergotherapie für Menschen mit neurologische Erkrankungen
 weight: "3"
 
 ---
