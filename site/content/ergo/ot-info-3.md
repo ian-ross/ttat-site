@@ -1,5 +1,5 @@
 ---
-title: Ergotherapie für neurologische Störungsbilder
+title: Ergotherapie für neurologische Erkrankungen
 weight: "3"
 
 ---
