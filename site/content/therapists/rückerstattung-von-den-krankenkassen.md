@@ -1,6 +1,6 @@
 +++
 title = "Rückerstattung von den Krankenkassen"
-weight = 5
+weight = 4
 
 +++
 Die ÖGK, SVS, BVAEB und KFA haben zugestimmt, dass während der Coronavirus Pandemie nicht-aufschiebbare Behandlungen in Form von Teletherapie durchgeführt werden dürfen, wenn
