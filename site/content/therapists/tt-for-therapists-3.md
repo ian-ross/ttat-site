@@ -7,7 +7,7 @@ Hier findet ihr eine Liste mit Studien zum Thema Teletherapie, Telerehabilitatio
 
 <!--more-->
 
-**Read Full Text:** [Efficacy of Home-Based Telerehabilitation vs In-Clinic Therapy for Adults After Stroke: A Randomized Clinical Trial 18](https://www.ncbi.nlm.nih.gov/pubmed/31233135) (Not available for free, but we felt it was important to discuss)  
+**Read Full Text:** [Efficacy of Home-Based Telerehabilitation vs In-Clinic Therapy for Adults After Stroke: A Randomized Clinical Trial 18](https://www.ncbi.nlm.nih.gov/pubmed/31233135) (Not available for free)  
 **Journal:** JAMA Neurology  
 **Year Published:** 2019
 
