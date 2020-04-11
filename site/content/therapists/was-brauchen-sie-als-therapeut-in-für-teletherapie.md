@@ -19,3 +19,5 @@ Als Therapeut*in brauchen Sie Folgendes um Teletherapie durchführen zu können:
 * eine Software, die eine DSGVO-konforme Durchführung von Teletherapie ermöglicht
 
 Empfehlung zur Software von der FH Campus Wien finden Sie hier: [Einsatz von Teletherapie in Zeiten von Covid-19](https://www.fh-campuswien.ac.at/de/departments/gesundheitswissenschaften/einsatz-von-teletherapie-in-zeiten-von-covid-19.html "Einsatz von Teletherapie in Zeiten von Covid-19")
+
+Bevor Sie die erste Teletherapieeinheit durchführen, brauchen Sie eine mündliche (?) oder besser schriftliche Einverständniserklärung der Patientin/des Patienten. Einen Entwurf einer solchen Einverständniserklärung können Sie entweder von Ihrem Berufsverband beziehen oder auf der Webseite der FH Campus Wien finden: [https://www.fh-campuswien.ac.at/de/departments/gesundheitswissenschaften/einsatz-von-teletherapie-in-zeiten-von-covid-19.html](https://www.fh-campuswien.ac.at/de/departments/gesundheitswissenschaften/einsatz-von-teletherapie-in-zeiten-von-covid-19.html "Einverständniserklärung")
