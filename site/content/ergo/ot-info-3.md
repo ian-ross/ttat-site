@@ -1,5 +1,5 @@
 ---
-title: Ergotherapie und Tele-Therapie 3
+title: Ergotherapie für neurologische Störungsbilder
 weight: "3"
 
 ---
