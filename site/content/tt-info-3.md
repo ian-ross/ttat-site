@@ -3,7 +3,7 @@ title: Was brauchen Sie als Patient für Teletherapie?
 weight: "3"
 
 ---
-Während der Teletherapie kommunizieren Sie mit ihrer*ihrem Therapeutin*Therapeuten über eine live Video. Hierfür wird eine datenschutzsichere Software, verwendet.
+Während der Teletherapie kommunizieren Sie mit ihrer_ihrem Therapeutin_Therapeuten über eine live Video. Es obliegt den Therapeut/innen hierfür eine DSGVO-konforme Software zu verwenden. Bei Bedenken oder Fragen wenden Sie sich bitte direkt an die/den Therapeut/in Ihrer Wahl. 
 
 <!--more-->
 
@@ -16,7 +16,7 @@ Während der Teletherapie kommunizieren Sie mit ihrer*ihrem Therapeutin*Therapeu
 * einen Ort, wo sie ungestört die Therapie durchführen können, für Physiotherapie brauchen sie eher mehr Platz als z.B. für Logopädie
 * Verordnung vom Arzt (_geht das momentan per Fax? oder telefonisch?_)
 
-Erfüllen Sie diese Voraussetzungen dann kontaktieren Sie eine*n unserer Therapeut*innen, um folgende Dinge zu klären.
+Erfüllen Sie diese Voraussetzungen dann kontaktieren Sie eine_n unserer Therapeut_innen, um folgende Dinge zu klären.
 
 1. Kann der Therapeut Ihnen bei Ihren Beschwerden in Form von Teletherapie helfen?
 2. Hat der Therapeut einen Termin frei für Sie?
