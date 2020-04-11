@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Rückerstattung von den Krankenkassen"
 weight = 5
 
