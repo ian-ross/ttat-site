@@ -1,8 +1,8 @@
 ---
-title: Ergotherapie und Tele-Therapie 2
-weight: 2
----
+title: Ergotherapie für Handverletzungen oder -erkrankungen
+weight: "2"
 
+---
 This is the second bit of information about OT and TT. Lorem ipsum
 dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
