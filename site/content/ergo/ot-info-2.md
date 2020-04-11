@@ -1,5 +1,5 @@
 ---
-title: Ergotherapie für Handverletzungen oder -erkrankungen
+title: Ergotherapie für Menschen mit Handverletzungen oder -erkrankungen
 weight: "2"
 
 ---
