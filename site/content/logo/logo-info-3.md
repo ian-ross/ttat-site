@@ -1,13 +1,12 @@
 ---
-title: Logopädie und Tele-Therapie 3
-weight: 3
----
+title: Medienberichte
+weight: "3"
+draft: true
 
-This is the third bit of information about ST and TT. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+---
+Sammlung von Medienberichten:
+
+[https://steiermark.orf.at/stories/3041228/](https://steiermark.orf.at/stories/3041228/ "https://steiermark.orf.at/stories/3041228/")
 
 <!--more-->
 
