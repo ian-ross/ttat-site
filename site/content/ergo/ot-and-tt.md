@@ -1,5 +1,5 @@
 ---
-title: Ergotherapie und Tele-Therapie
+title: Ergotherapie und Teletherapie
 weight: "1"
 
 ---
