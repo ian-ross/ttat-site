@@ -3,7 +3,7 @@ title: Ergotherapie und Tele-Therapie
 weight: "1"
 
 ---
-Ergotherapie lässt sich in vielen Situationen wunderbar als Teletherapie durchführen. Ergotherapeut_innen helfen Ihnen, **Ihren Alltag zu meistern** und das geht besonders gut, wenn die sie einen direkten Blick auf Ihre Alltagstätigkeiten werfen können.
+Ergotherapie lässt sich in vielen Situationen wunderbar als Teletherapie durchführen. Ergotherapeut_innen helfen Ihnen, **Ihren Alltag zu meistern** und das geht besonders gut, wenn die sie einen direkten Blick auf Ihre Alltagstätigkeiten werfen können. 
 
 Haben Sie nach einem Knochenbruch des Unterarms Schwierigkeiten sich die Haare zu kämmen? Ergotherapeut_innen schauen Ihnen bei der Bewegungsausführung zu, **analysieren das Problem** und zeigen Ihnen **Übungen**, wie Sie die Beweglichkeit Ihres Unterarmes und Handgelenkes verbessern können.
 
