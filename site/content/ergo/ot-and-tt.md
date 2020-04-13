@@ -1,34 +1,14 @@
 ---
 title: Ergotherapie und Tele-Therapie
-weight: 1
----
+weight: "1"
 
-This is the first bit of information about OT and TT. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+---
+Ergotherapie lässt sich in vielen Situationen wunderbar als Teletherapie durchführen. Ergotherapeut_innen helfen Ihnen, Ihren Alltag zu meistern und das geht besonders gut, wenn die sie einen direkten Blick auf Ihre Alltagstätigkeiten werfen können. 
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+Haben Sie nach einem Knochenbruch des Unterarms Schwierigkeiten sich die Haare zu kämmen? Ergotherapeut_innen schauen Ihnen bei der Bewegungsausführung zu, analysieren das Problem und zeigen Ihnen Übungen, wie Sie die Beweglichkeit Ihres Unterarmes und Handgelenkes verbessern können.
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam
-varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus
-magna felis sollicitudin mauris. Integer in mauris eu nibh euismod
-gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis
-risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue,
-eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas
-fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla
-a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis,
-neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing
-sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque
-nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus
-quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis,
-molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+Haben Sie durch Ihre Morbus Parkinson Erkrankung Probleme, die Knöpfe Ihrer Bluse oder Ihren Hemdes zu zuknöpfen? Ergotherapeut_innen empfehlen Ihnen Hilfsmittel, die Ihren Alltag erleichtern und Ihnen ein möglichst selbständiges Handeln ermöglichen.
+
+Kann sich Ihr Kind nur schwer auf die Schulaufgaben konzentrieren? Ergotherapeut_innen beobachten den Arbeitsstil Ihres Kindes über die Videokonferenz, analysiert das Arbeitsumfeld und erarbeitet zusammen mit dem Kind und den Eltern eine Strategie, wie die Konzentration des Kindes gefördert werden kann.
