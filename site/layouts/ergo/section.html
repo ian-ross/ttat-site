@@ -56,21 +56,6 @@
   </div>
 </section>
 
-{{ range where .Site.RegularPages "Section" .Section }}
-<section class="section">
-  <a href="{{.RelPermalink}}">
-    <div class="columns is-centered">
-      <div class="column is-9-desktop is-8-widescreen">
-        <div class="container box">
-          <div class="content">
-            <h2 class="title is-2 has-text-centered">{{.Title}}</h2>
+{{ partial "section-list" . }}
 
-            <p>{{.Summary}}</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </a>
-</section>
-{{ end }}
 {{ end }}
